@@ -11,7 +11,11 @@ Here are some of the known issues with the repository that you could potentially
 - Inconsistency between title formatting i.e. `[hard] vs [Hard] vs [Difficult]`, ordering of words, lowercase vs uppercase letters, etc (take a look at the challenge names to see the inconsistencies)
     -   This has been largely handled, but feel free to update anything that was missed.
 - Missing selftext for some challenge titles (Issue #4)
+<<<<<<< HEAD
 - Missing standard input file required to run challenge (often linked in challenge text)
+=======
+- Missing the standard input file required to run all solutions
+>>>>>>> 7fb7526226b13e4ea763945197282c302f73abea
 
 #### Naming Format
 
